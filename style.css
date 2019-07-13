@@ -1,0 +1,21 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  background-size: contain;
+}
+
+h1 {
+	background: black url("LandingStock_image_27.jpg") no-repeat center;
+	background-position: center;
+	text-transform: capitalize;
+	/*border: 5px solid red;*/
+	/*height: 100%*/
+	margin-top: 300px;
+}
